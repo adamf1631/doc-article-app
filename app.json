@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Camden Diocese App",
+    "slug": "CamdenDioceseApp",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#333"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "package": "com.camdendiocese.camdendioceseapp",
+      "versionCode": 1,
+      "useNextNotificationsApi": true,
+      "googleServicesFile": "./google-services.json"
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "description": ""
+  },
+  "displayName": "the Diocese of Camden",
+  "name": "CamdenDioceseApp"
+}

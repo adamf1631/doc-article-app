@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742514190613",
+    "project_id": "doc-article-app-33aae",
+    "storage_bucket": "doc-article-app-33aae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742514190613:android:6b4f9f8ba456143cb0211c",
+        "android_client_info": {
+          "package_name": "com.camdendiocese.camdendioceseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742514190613-uocbb03btkh8jn44gud83p2k6etqe3en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF2XfNlLKQbHvG-FJD8X9Ivz9-FhAa1oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742514190613-uocbb03btkh8jn44gud83p2k6etqe3en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
